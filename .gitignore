@@ -1,0 +1,26 @@
+# Виртуальное окружение
+.venv/
+venv/
+
+# Кэш Python
+__pycache__/
+*.pyc
+
+# Секретные ключи!
+.env
+
+# Базы данных и временные файлы
+*.db
+*.wav
+error.txt
+output_*.wav
+
+# Сборки PyInstaller и установщики (вот это нам не нужно на GitHub)
+build/
+dist/
+installer_output/
+*.spec
+
+# Прочее
+.idea/
+.DS_Store

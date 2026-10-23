@@ -1,0 +1,12 @@
+customtkinter
+openai
+python-dotenv
+SpeechRecognition
+PyAudioWPatch
+pygame
+pystray
+scipy
+numpy
+Pillow
+psutil
+requests
